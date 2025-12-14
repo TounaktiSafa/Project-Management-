@@ -29,7 +29,7 @@ A modern **Vue 3** project management dashboard that provides real‑time task t
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer    | Technology                            |
 | -------- | ------------------------------------- |
@@ -44,4 +44,3 @@ A modern **Vue 3** project management dashboard that provides real‑time task t
 
 
 
-This project is licensed for educational and internal use.
