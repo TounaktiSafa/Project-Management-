@@ -4,9 +4,9 @@ A modern **Vue 3** project management dashboard that provides real‑time task t
 
 ---
 
-## 🚀 Features
+##  Features
 
-### 📋 Task Management
+### Task Management
 
 * View all project tasks in a sortable, searchable table
 * Filter tasks by status (To Do, In Progress, Review, Done, Blocked)
